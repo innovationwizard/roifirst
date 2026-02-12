@@ -7,7 +7,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const publicDir = join(__dirname, '../public');
 const logoPath = join(publicDir, 'ROI_FIRST_LOGO.png');
 
-const BASALT = '#4C4A4A';
+const BASALT = '#1c1917';
 
 async function generate() {
   const logo = sharp(logoPath);
