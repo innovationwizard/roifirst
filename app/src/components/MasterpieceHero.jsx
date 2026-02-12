@@ -10,7 +10,7 @@ const MasterpieceHero = () => {
         <img
           src="/ROI_FIRST_LOGO.png"
           alt="ROI-First AI Solutions"
-          className="h-20 w-auto object-contain"
+          className="h-200 w-auto object-contain"
         />
       </div>
 
