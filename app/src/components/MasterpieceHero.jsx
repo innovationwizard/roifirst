@@ -6,7 +6,7 @@ const MasterpieceHero = () => {
       className="flex min-h-screen w-full flex-col items-center justify-center p-8"
       style={{ backgroundColor: '#1c1917' }}
     >
-      <div className="mb-12 flex justify-center">
+      <div className="mb-6 flex justify-center">
         <img
           src="/ROI_FIRST_LOGO.png"
           alt="ROI-First AI Solutions"
