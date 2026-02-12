@@ -24,7 +24,7 @@ const MasterpieceHero = () => {
         We Deliver Artificial Intelligence Solutions That Prioritize Return on Investment, In Record Time.
       </p>
 
-      <p className="mt-2 text-center text-sm text-white/50">© 2026 Artificial Intelligence Developments, LLC</p>
+      <p className="mt-5 text-center text-sm text-white/50">© 2026 Artificial Intelligence Developments, LLC</p>
     </div>
   );
 };
