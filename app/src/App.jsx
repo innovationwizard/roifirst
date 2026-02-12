@@ -1,7 +1,7 @@
-import HeroText from './components/HeroText'
+import MasterpieceHero from './components/MasterpieceHero'
 
 function App() {
-  return <HeroText />
+  return <MasterpieceHero />
 }
 
 export default App
