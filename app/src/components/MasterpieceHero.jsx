@@ -20,7 +20,7 @@ const MasterpieceHero = () => {
         className="w-full max-w-5xl select-none object-contain"
       />
 
-      <p className="mt-8 text-center text-sm font-medium uppercase tracking-[0.2em] text-white/80">
+      <p className="mt-5 text-center text-sm font-medium uppercase tracking-[0.2em] text-white/80">
         We Deliver Artificial Intelligence Solutions That Prioritize Return on Investment, In Record Time.
       </p>
 
